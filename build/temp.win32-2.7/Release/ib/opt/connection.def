@@ -1,0 +1,3 @@
+LIBRARY connection.pyd
+EXPORTS
+initconnection

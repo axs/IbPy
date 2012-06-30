@@ -1,0 +1,3 @@
+LIBRARY EReader.pyd
+EXPORTS
+initEReader

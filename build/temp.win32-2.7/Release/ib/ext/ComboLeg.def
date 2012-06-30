@@ -1,0 +1,3 @@
+LIBRARY ComboLeg.pyd
+EXPORTS
+initComboLeg

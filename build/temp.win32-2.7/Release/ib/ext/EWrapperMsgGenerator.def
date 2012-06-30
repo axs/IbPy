@@ -1,0 +1,3 @@
+LIBRARY EWrapperMsgGenerator.pyd
+EXPORTS
+initEWrapperMsgGenerator

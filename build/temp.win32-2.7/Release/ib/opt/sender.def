@@ -1,0 +1,3 @@
+LIBRARY sender.pyd
+EXPORTS
+initsender

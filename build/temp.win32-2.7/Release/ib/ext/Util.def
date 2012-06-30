@@ -1,0 +1,3 @@
+LIBRARY Util.pyd
+EXPORTS
+initUtil

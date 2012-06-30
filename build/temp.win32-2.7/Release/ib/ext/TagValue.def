@@ -1,0 +1,3 @@
+LIBRARY TagValue.pyd
+EXPORTS
+initTagValue

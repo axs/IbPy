@@ -1,0 +1,3 @@
+LIBRARY dispatcher.pyd
+EXPORTS
+initdispatcher

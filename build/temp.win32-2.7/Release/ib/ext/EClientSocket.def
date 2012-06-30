@@ -1,0 +1,3 @@
+LIBRARY EClientSocket.pyd
+EXPORTS
+initEClientSocket

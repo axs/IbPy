@@ -1,0 +1,3 @@
+LIBRARY TickType.pyd
+EXPORTS
+initTickType

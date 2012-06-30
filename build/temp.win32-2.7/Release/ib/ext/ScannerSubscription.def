@@ -1,0 +1,3 @@
+LIBRARY ScannerSubscription.pyd
+EXPORTS
+initScannerSubscription

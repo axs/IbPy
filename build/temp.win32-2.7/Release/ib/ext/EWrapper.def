@@ -1,0 +1,3 @@
+LIBRARY EWrapper.pyd
+EXPORTS
+initEWrapper

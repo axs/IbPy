@@ -1,0 +1,3 @@
+LIBRARY ContractDetails.pyd
+EXPORTS
+initContractDetails
