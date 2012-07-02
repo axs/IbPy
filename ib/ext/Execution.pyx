@@ -45,19 +45,19 @@ class Execution(object):
         self.m_avgPrice = 0
 
     @__init__.register(object, int, int, str, str, str, str, str, int, float, int, int, int, float)
-    def __init___0(self, p_orderId,
-                         p_clientId,
+    def __init___0(self, int p_orderId,
+                         int p_clientId,
                          p_execId,
                          p_time,
                          p_acctNumber,
                          p_exchange,
                          p_side,
-                         p_shares,
-                         p_price,
-                         p_permId,
-                         p_liquidation,
-                         p_cumQty,
-                         p_avgPrice):
+                         int p_shares,
+                         double p_price,
+                         int p_permId,
+                         int p_liquidation,
+                         int p_cumQty,
+                         double p_avgPrice):
         self.m_orderId = p_orderId
         self.m_clientId = p_clientId
         self.m_execId = p_execId

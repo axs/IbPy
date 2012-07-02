@@ -99,7 +99,7 @@ class EReader(Thread):
         if self.parent().isConnected():
             self.m_parent.close()
 
-    def processMsg(self, msgId):
+    def processMsg(self, int msgId):
         if (msgId == -1):
             return False
         if msgId == self.TICK_PRICE:

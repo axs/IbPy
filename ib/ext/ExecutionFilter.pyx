@@ -32,7 +32,7 @@ class ExecutionFilter(object):
         self.m_clientId = 0
 
     @__init__.register(object, int, str, str, str, str, str, str)
-    def __init___0(self, p_clientId,
+    def __init___0(self, int p_clientId,
                          p_acctCode,
                          p_time,
                          p_symbol,

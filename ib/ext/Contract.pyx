@@ -52,7 +52,7 @@ class Contract(Cloneable):
         return retval
 
     @__init__.register(object, int, str, str, str, float, str, str, str, str, str, list, str, bool, str, str)
-    def __init___0(self, p_conId,
+    def __init___0(self, int p_conId,
                          p_symbol,
                          p_secType,
                          p_expiry,

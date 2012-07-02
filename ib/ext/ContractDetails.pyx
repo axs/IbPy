@@ -65,7 +65,7 @@ class ContractDetails(object):
                          p_minTick,
                          p_orderTypes,
                          p_validExchanges,
-                         p_underConId,
+                         int p_underConId,
                          p_longName,
                          p_contractMonth,
                          p_industry,
